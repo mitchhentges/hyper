@@ -156,6 +156,11 @@ path = "examples/http_proxy.rs"
 required-features = ["full"]
 
 [[example]]
+name = "broken-pipe"
+path = "examples/broken-pipe.rs"
+required-features = ["full"]
+
+[[example]]
 name = "multi_server"
 path = "examples/multi_server.rs"
 required-features = ["full"]
